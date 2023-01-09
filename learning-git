@@ -1,0 +1,15 @@
+
+==Git Configuration
+
+  git update
+  git update-git-for-windows
+
+  git config --global user.name "username"
+  git config --global user.email "email"
+  
+
+==Git Check Configuration
+
+  git version
+
+  git config --listpwd
