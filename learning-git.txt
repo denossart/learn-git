@@ -56,14 +56,22 @@ After you change something in your Git folder:
 
 ==Git branch workflow
 
-  git branch [lists all branches]
+  git branch [lists local branches]
+  git branch -a [list local and remote branches]
 
   git branch "your-branch"
 
   git checkout "your-branch"
 
   git push --set-upstream origin update [first push to GitHub]
+  
   git push [all pushes after first push]
+
+
+==Git delete branch
+
+  git branch -d "your-branch" [only deletes local on Git]
+  git push origin :your-branch [deletes remote on GitHub]
 
 
 ==Open a file from Git Bash CL
