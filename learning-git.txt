@@ -32,7 +32,7 @@ Tip: type first character of file or directory name and click tab to auto-comple
 Make sure that the config file contains the user.name and user.email of the GitHub-account you will be pushing your files to
 
 
-==Change default "master" to "main"
+==Change default name of "master" branch to "main"
 
 Git uses "master" as name for the main branch while GitHub uses "main"
 
@@ -52,9 +52,16 @@ After you change something in your Git folder:
   git add . [adds all files in directory]
 
 
-==Check Git branches
+==Git branch workflow
 
   git branch [lists all branches]
+
+  git branch "your-branch"
+
+  git checkout "your-branch"
+
+  git push --set-upstream origin update [first push to GitHub]
+  git push [all pushes after first push]
 
 
 ==Open a file from Git Bash CL
