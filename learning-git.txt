@@ -1,19 +1,47 @@
 
-==Git Configuration
+==Git Bash commands
+
+  pwd
+  cd ..
+  cd ~
+  cd /directory-of-choice/...
+
+  ls
+  ls -l
+  ls -la
+
+Tip: type first character of file- or directoryname and click tab to auto-complete
+
+
+==Check possible existing Git configuration
 
   where git
 
-  git --version
+  git version
 
   git update
-  git update-git-for-windows
+
+  git config --list
+
+
+==Git configuration
 
   git config --global user.name "username"
   git config --global user.email "email"
   
+Make sure that the config.file contains the user.name and user.email of the GitHub-account you will be pushing your files to
 
-==Git Check Configuration
 
-  git version
+==Git workflow
 
-  git config --listpwd
+  git add filename.html
+  git add *.html [adds all .html files in directory]
+  git add . [adds all files in directory]
+
+
+==Open a txt-file in Notepad from Git Bash CL
+
+  notepad filename.txt
+
+
+
