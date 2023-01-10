@@ -1,6 +1,10 @@
 
 ==Git Configuration
 
+  where git
+
+  git --version
+
   git update
   git update-git-for-windows
 
