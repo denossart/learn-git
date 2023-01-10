@@ -23,6 +23,8 @@ Tip: type first character of file or directory name and click tab to auto-comple
 
   git config --list
 
+  git status [tip: use this all the time !!]
+
 
 ==Git configuration
 
