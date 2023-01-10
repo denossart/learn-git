@@ -34,8 +34,7 @@ Make sure that the config file contains the user.name and user.email of the GitH
 
 ==Change default "master" to "main"
 
-Git uses "master" as name for the main branch
-GitHub uses "main"
+Git uses "master" as name for the main branch while GitHub uses "main"
 
 Change the Git name of the "master" to "main" to avoid problems when you push your files to GitHub
 
@@ -46,14 +45,21 @@ Change the Git name of the "master" to "main" to avoid problems when you push yo
 
 By default you work in the main branch
 
+After you change something in your Git folder:
+
   git add filename.html
   git add *.html [adds all .html files in directory]
   git add . [adds all files in directory]
 
 
-==Open a txt-file in Notepad from Git Bash CL
+==Check Git branches
 
-  notepad filename.txt
+  git branch [lists all branches]
+
+
+==Open a file from Git Bash CL
+
+  notepad filename.txt [opens the file in Notepad]
 
 
 
