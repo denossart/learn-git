@@ -10,7 +10,7 @@
   ls -l
   ls -la
 
-Tip: type first character of file- or directoryname and click tab to auto-complete
+Tip: type first character of file or directory name and click tab to auto-complete
 
 
 ==Check possible existing Git configuration
