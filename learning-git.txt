@@ -42,6 +42,8 @@ Change the Git name of the "master" to "main" to avoid problems when you push yo
 
   git branch -M main
 
+Do this in every new repository
+
 
 ==Git workflow
 
