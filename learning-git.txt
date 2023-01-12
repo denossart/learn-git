@@ -57,7 +57,7 @@ Do this in every new repository
 
 It's possible to encounter an error message: "fatal: remote origin already exists".  Solution:
 
-  git remote - [to check the url of the remote origin]
+  git remote -v [to check the url of the remote origin]
 
   git remote remove origin
 
