@@ -98,4 +98,11 @@ After you change something in your Git folder:
   notepad filename.txt [opens the file in Notepad]
 
 
+==Tags
+
+  git tag tagname [adds a tag to a branch]
+
+  git push origin --tags [pushes the tag to the remote repository]
+
+
 
