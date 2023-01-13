@@ -44,6 +44,12 @@ Change the Git name of the "master" to "main" to avoid problems when you push yo
 
 Do this in every new repository
 
+OR:
+
+Change this once after a new Git install:
+
+  git config --global init.defaultBranch main
+
 
 ==Git create new repository from CLI
 
