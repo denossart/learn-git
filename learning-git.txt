@@ -170,6 +170,15 @@ All free at time of writing
 --https://www.youtube.com/watch?v=bFCM-PC3cu8
 
 
+==Resources
+
+> https://www.makeareadme.com/
+> https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository
+> https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project
+> https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors?WT.mc_id=academic-77807-sagibbon
+> https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes?WT.mc_id=academic-77807-sagibbon
+
+
 
 
 
