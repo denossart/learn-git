@@ -91,6 +91,10 @@ With this command you create the actual "save point"
 
   git commit -m "your-text"
 
+The commit text completes the phrase: "If applied, this commit will..."
+
+Optional: in the body of the commit message, explain "why" you made the change, not "how"
+
 
 ==Git branch workflow
 
@@ -127,6 +131,11 @@ With this command you create the actual "save point"
   git tag tagname [adds a tag to a branch]
 
   git push origin --tags [pushes the tag to the remote repository]
+
+
+==Exclude files from push
+
+Create a .gitignore file
 
 
 ==Sources
