@@ -118,4 +118,15 @@ After you change something in your Git folder:
   git push origin --tags [pushes the tag to the remote repository]
 
 
+==Sources
+
+All free at time of writing
+
+--https://www.youtube.com/watch?v=9R31OUPpxU4
+
+
+
+
+
+
 
