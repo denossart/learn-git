@@ -154,6 +154,14 @@ Go to the "main branch"
 Create a .gitignore file
 
 
+==Git clone
+To download a repo from GitHub to your local machine
+
+
+==Git pull
+To download a change made on GitHub to an existing repo on your local machine
+
+
 ==Sources
 
 All free at time of writing
