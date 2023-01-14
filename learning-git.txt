@@ -162,6 +162,16 @@ To download a repo from GitHub to your local machine
 To download a change made on GitHub to an existing repo on your local machine
 
 
+==Add/Complete if necessary
+To let others better understand your repo
+
+--Description
+--README
+--Contributing guideline
+--Code of Conduct
+--License
+
+
 ==Sources
 
 All free at time of writing
