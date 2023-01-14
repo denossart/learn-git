@@ -80,6 +80,13 @@ After you change something in your Git folder:
   git add *.html [adds all .html files in directory]
   git add . [adds all files in directory]
 
+This is called "staging"
+
+To undo the staging:
+
+  git reset [unstages everything]
+  git reset filename [unstages a specific file]
+
 
 ==Git branch workflow
 
