@@ -101,6 +101,11 @@ After you change something in your Git folder:
   git push origin :your-branch [deletes remote on GitHub]
 
 
+==Git delete staged file
+
+  git restore --staged filename
+
+
 ==Open a file from Git Bash CL
 
   notepad filename.txt [opens the file in Notepad]
