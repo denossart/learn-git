@@ -25,6 +25,8 @@ Tip: type first character of file or directory name and click tab to auto-comple
 
   git status [tip: use this all the time !!]
 
+  git log
+
 
 ==Git configuration
 
