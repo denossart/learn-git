@@ -172,6 +172,21 @@ To let others better understand your repo
 --License
 
 
+==PROBLEMS-SOLUTIONS
+
+--Unable to pull a remote repo
+
+----Situation:
+1-created a local repo and 1file 'index.html'
+2-created a remote repo of the same name and added a README and LICENSE
+
+----Problem: error on Git "fatal: refusing to merge unrelated histories"
+
+----Solution:
+
+  git pull remotename main --allow-unrelated-histores
+
+
 ==Sources
 
 All free at time of writing
