@@ -161,6 +161,8 @@ To download a repo from GitHub to your local machine
 ==Git pull
 To download a change made on GitHub to an existing repo on your local machine
 
+  git pull --all
+
 
 ==Add/Complete if necessary
 To let others better understand your repo
